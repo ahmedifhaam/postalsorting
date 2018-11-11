@@ -1,0 +1,3 @@
+[submodule "ocrforpostal"]
+	path = ocrforpostal
+	url = https://github.com/ahmedifhaam/ocrforpostal
